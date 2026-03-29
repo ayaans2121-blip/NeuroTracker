@@ -1,0 +1,5 @@
+{
+  "name": "NeuroTracker",
+  "description": "Objective, standardized tremor tracking using iPhone motion sensors.",
+  "requestFramePermissions": []
+}
